@@ -1,0 +1,15 @@
+[project]
+name = "eurostempeers2025-workshop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "frontend>=0.0.3",
+  "langchain>=1.0.7",
+  "langchain-openai>=1.0.3",
+  "langgraph>=1.0.3",
+  "matplotlib>=3.10.7",
+  "openai>=2.8.0",
+  "pymupdf>=1.26.6",
+]
